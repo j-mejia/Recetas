@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Recetas</string>
+
+    <string name="add_receta">Add/Edit Receta</string>
+    <string name="ver_receta">Visualización de la Receta</string>
+
+    <string name="menu_crear">Crear Receta</string>
+    <string name="menu_editar">Editar Receta</string>
+    <string name="menu_eliminar">Eliminar Receta</string>
+    <string name="menu_borrar_todas">Borrar Todas</string>
+    <string name="menu_salir">Salir</string>
+
+
+
+
 </resources>
